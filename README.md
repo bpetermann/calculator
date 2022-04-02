@@ -1,5 +1,10 @@
-Assignment:
-An on-screen calculator using JavaScript, HTML, and CSS.
+# Calculator
 
-Coming from: [theodinproject](https://www.theodinproject.com)<br>
-View Live: [here](https://bpetermann.github.io/calculator/)
+## Project Overview
+
+### Description
+- An on-screen calculator using JavaScript, HTML, and CSS
+- [View Live](https://bpetermann.github.io/calculator/)
+
+### Thanks
+- [theodinproject](https://www.theodinproject.com)<br>
